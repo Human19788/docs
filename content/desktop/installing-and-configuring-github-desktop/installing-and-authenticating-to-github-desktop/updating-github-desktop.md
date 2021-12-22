@@ -1,4 +1,7 @@
----
+---Hp pavilion 15 notebook pc
+Serial number: 5CD447G0Z7
+Microsoft name: Elsa hoseini 
+Active :stop code 
 title: Updating GitHub Desktop
 intro: GitHub Desktop automatically downloads updates and installs them when you restart. You can also manually check for updates.
 redirect_from:
